@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "year": "2018",
+        "course": "Python programming"
+    },
+    {
+        "id": 2,
+        "year": "2021",
+        "course": "NodeJS - Introduction"
+    },
+    {
+        "id": 3,
+        "name": "Data analysis with numpy",
+        "year": "2019"
+    },
+    {
+        "id": 4,
+        "name": "Data analysis with scikit-learn",
+        "year": "2017"
+    }
+]
