@@ -9,7 +9,7 @@
     "start": "nodemon index.js"
   },
   "repository": {
-    "url": "https://github.com/fasalmbt/MEVN-codes/tree/main/backend-mysql"
+    "url": "https://github.com/fasalmbt/MEVN-codes/tree/main/backend/"
   },
   "author": "fasalmbt",
   "license": "MIT",
