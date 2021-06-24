@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "A sample backend using mysql, nodejs, express",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "url": "https://github.com/fasalmbt/MEVN-codes/tree/main/backend-mysql"
+  },
+  "author": "fasalmbt",
+  "license": "MIT",
+  "dependencies": {
+    "express": "",
+    "cors": "",
+    "mysql2": ""
+  }
+}
