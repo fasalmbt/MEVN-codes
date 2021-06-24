@@ -1,3 +1,13 @@
 # MEVN-codes
-Code that don't deserve a single repository
-`Use postman to test the api after running nodemon.js`
+Code that is made for studying MEVN stack
+- MySQL, Express, Vue, Node  ---- I prefered MySQL over Mongo for this.
+
+### To run backend
+`nodemon index.js`
+
+### To run frontend
+`npm run serve`
+
+### DB configuration
+`Dont forget to add db configuration at /backend/config/db.js`
+
